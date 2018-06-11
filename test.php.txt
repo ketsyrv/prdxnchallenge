@@ -1,3 +1,0 @@
-<?php
-//comment in the file
-phpinfo();
